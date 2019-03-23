@@ -8,15 +8,7 @@
 ### Readings
 * [Data Science Cheatsheet](https://github.com/vikumsw/Machine-Learning-and-AI-Resourses/blob/master/DSCheatSheet.pdf)
 * [Machine Learning Cheatsheet](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/super-cheatsheet-machine-learning.pdf)
+* [AI Transformation Playbook : How to lead your company into the AI era](https://landing.ai/ai-transformation-playbook/)
 
 ### Online Articles
 * The Algorithm: [Living under China’s social credit system](https://go.technologyreview.com/is-chinas-social-credit-system-misunderstood?)
-
-
-
-
-
-
-
-### To Do
-* [AI Transformation Playbook ; How to lead your company into the AI era](https://landing.ai/ai-transformation-playbook/)
