@@ -8,6 +8,7 @@
 ### Readings
 * [Data Science Cheatsheet](https://github.com/vikumsw/Machine-Learning-and-AI-Resourses/blob/master/DSCheatSheet.pdf)
 * [Machine Learning Cheatsheet](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/super-cheatsheet-machine-learning.pdf)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 * [AI Transformation Playbook : How to lead your company into the AI era](https://landing.ai/ai-transformation-playbook/)
 
 ### Online Articles
