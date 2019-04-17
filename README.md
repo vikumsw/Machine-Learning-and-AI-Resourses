@@ -1,9 +1,11 @@
-# Machine-Learning-and-AI-Resourses
+# Machine Learning and AI Resourses
 ### MOOCs
 * [Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning)
   * How to Revise? : [Stanford Machine Learning Notes](http://www.holehouse.org/mlclass/)   _there are many more_.
 * [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone)
   * How to Revise? : [Course in 30 points](https://towardsdatascience.com/ai-for-everyone-what-andrew-ng-want-to-convey-with-this-non-technical-course-in-30-points-bedaea57c81b)
+* [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning *by deeplearning.ai*](https://www.coursera.org/learn/introduction-tensorflow/home/welcome)
+* [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) 
 
 ### Readings
 * [Data Science Cheatsheet](https://github.com/vikumsw/Machine-Learning-and-AI-Resourses/blob/master/DSCheatSheet.pdf)
