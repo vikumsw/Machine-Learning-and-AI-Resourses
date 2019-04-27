@@ -24,6 +24,8 @@
 * [The Most Comprehensive Data Science & #MachineLearning Interview Guide You’ll Ever Need](https://lnkd.in/fR2uGgE)
 * []()
 
+### Interview Preparation
+* [Data Science Inteview Questions by 365 Data Science](https://github.com/vikumsw/Machine-Learning-and-AI-Resourses/blob/master/DATA%20SCIENCE%20INTERVIEW%20QUESTIONS.pdf)
 
 ### Online Articles
 * The Algorithm: [Living under China’s social credit system](https://go.technologyreview.com/is-chinas-social-credit-system-misunderstood?)
