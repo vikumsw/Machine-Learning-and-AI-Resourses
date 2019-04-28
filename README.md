@@ -9,7 +9,7 @@
   * How to Revise? : [Course in 30 points](https://towardsdatascience.com/ai-for-everyone-what-andrew-ng-want-to-convey-with-this-non-technical-course-in-30-points-bedaea57c81b)
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning *by deeplearning.ai*](https://www.coursera.org/learn/introduction-tensorflow/home/welcome)
 * [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/)
-  * How to Revise? : Go through reading sections under each topic
+  * How to Revise? : Go through vedio lecture under each topic
 
 ### Readings
 * [Data Science Cheatsheet](https://github.com/vikumsw/Machine-Learning-and-AI-Resourses/blob/master/DSCheatSheet.pdf)
