@@ -12,9 +12,13 @@
   * How to Revise? : Go through vedio lecture under each topic
 
 ### Readings
+#### Neural Networks
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+* [Backpropagation Demo](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
+* [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+#### Other
 * [Data Science Cheatsheet](https://github.com/vikumsw/Machine-Learning-and-AI-Resourses/blob/master/DSCheatSheet.pdf)
 * [Machine Learning Cheatsheet](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/super-cheatsheet-machine-learning.pdf)
-* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 * [AI Transformation Playbook : How to lead your company into the AI era](https://landing.ai/ai-transformation-playbook/)
 
 ### Advices, Tips and tricks from experts
