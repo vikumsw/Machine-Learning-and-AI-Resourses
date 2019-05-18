@@ -22,12 +22,14 @@
 * [AI Transformation Playbook : How to lead your company into the AI era](https://landing.ai/ai-transformation-playbook/)
 #### Mind Maps
 * [ML Mind Map](https://github.com/vikumsw/Machine-Learning-and-AI-Resourses/blob/master/ML_MM1.jpg)
+#### Python
+* [Pandas Visual Guide in 8 Pages](https://www.linkedin.com/feed/update/urn:li:activity:6529369134420103168/)
 
 ### Advices, Tips and tricks from experts
 * [13 Common Mistakes Amateur Data Scientists Make and How to Avoid Them?](https://www.analyticsvidhya.com/blog/2018/07/13-common-mistakes-aspiring-fresher-data-scientists-make-how-to-avoid-them/?utm_source=linkedin.com&utm_medium=social)
 * [Busted! 11 Myths Data Science Transitioners Need to Avoid](https://lnkd.in/fmygG9B)
 * [4 Secrets for a Future Ready Career in Data Science](https://lnkd.in/feNxs8b)
-* []()
+* [list of 10 GREAT SelfStarting DataScience Projects to work on](https://www.linkedin.com/feed/update/urn:li:activity:6532594209998897153/)
 
 ### Interview Preparation
 * [Data Science Inteview Questions by 365 Data Science](https://github.com/vikumsw/Machine-Learning-and-AI-Resourses/blob/master/DATA%20SCIENCE%20INTERVIEW%20QUESTIONS.pdf)
