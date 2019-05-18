@@ -20,6 +20,8 @@
 * [Data Science Cheatsheet](https://github.com/vikumsw/Machine-Learning-and-AI-Resourses/blob/master/DSCheatSheet.pdf)
 * [Machine Learning Cheatsheet](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/super-cheatsheet-machine-learning.pdf)
 * [AI Transformation Playbook : How to lead your company into the AI era](https://landing.ai/ai-transformation-playbook/)
+#### Mind Maps
+* [ML Mind Map](https://github.com/vikumsw/Machine-Learning-and-AI-Resourses/blob/master/ML_MM1.jpg)
 
 ### Advices, Tips and tricks from experts
 * [13 Common Mistakes Amateur Data Scientists Make and How to Avoid Them?](https://www.analyticsvidhya.com/blog/2018/07/13-common-mistakes-aspiring-fresher-data-scientists-make-how-to-avoid-them/?utm_source=linkedin.com&utm_medium=social)
