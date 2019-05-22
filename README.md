@@ -37,4 +37,4 @@
 
 
 ### Online Articles
-* The Algorithm: [Living under China’s social credit system](https://go.technologyreview.com/is-chinas-social-credit-system-misunderstood?)
+* [The Algorithm public informal archive](https://docs.google.com/spreadsheets/d/1T-dcMyHk3rns6cKXlBCGBOdAjEP8na9SnxSuszQJ55Q/edit#gid=0)
