@@ -11,7 +11,6 @@
 * [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/)
   * How to Revise? : Go through vedio lecture under each topic
 
-### Readings
 #### Neural Networks
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 * [Backpropagation Demo](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
@@ -19,6 +18,8 @@
 
 #### Ensemble Learning
 * [A Comprehensive Guide to Ensemble Learning (with Python codes)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
+* [Bagging and Boosting](https://www.youtube.com/watch?v=MRD67WgWonA)
+
 
 #### Other
 * [Data Science Cheatsheet](https://github.com/vikumsw/Machine-Learning-and-AI-Resourses/blob/master/DSCheatSheet.pdf)
