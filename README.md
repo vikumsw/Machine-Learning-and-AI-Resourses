@@ -15,7 +15,7 @@
 * [Interpretable Machine Learning by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/index.html)
 * [Black-box vs. white-box models](https://towardsdatascience.com/machine-learning-interpretability-techniques-662c723454f3)
 * [Interpretable Machine Learning in Healthcare](http://www.comp.hkbu.edu.hk/~cib/2018/Aug/article1/iib_vol19no1_article1.pdf)
-* []()
+* [Understanding model predictions with LIME](https://towardsdatascience.com/understanding-model-predictions-with-lime-a582fdff3a3b)
 
 #### Neural Networks
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
