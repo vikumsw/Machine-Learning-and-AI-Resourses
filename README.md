@@ -32,6 +32,7 @@
 * [Data Science Cheatsheet](https://github.com/vikumsw/Machine-Learning-and-AI-Resourses/blob/master/DSCheatSheet.pdf)
 * [Machine Learning Cheatsheet](https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/en/super-cheatsheet-machine-learning.pdf)
 * [AI Transformation Playbook : How to lead your company into the AI era](https://landing.ai/ai-transformation-playbook/)
+* [AI, the what and the how](https://github.com/vikumsw/Machine-Learning-and-AI-Resourses/blob/master/AI%2C%20the%20what%20and%20the%20how.pdf)
 #### Mind Maps
 * [ML Mind Map](https://github.com/vikumsw/Machine-Learning-and-AI-Resourses/blob/master/ML_MM1.jpg)
 #### Python
