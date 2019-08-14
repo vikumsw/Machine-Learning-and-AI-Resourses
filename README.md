@@ -26,6 +26,7 @@
 #### Ensemble Learning
 * [A Comprehensive Guide to Ensemble Learning (with Python codes)](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/)
 * [Bagging and Boosting](https://www.youtube.com/watch?v=MRD67WgWonA)
+* [Quick Introduction to Boosting Algorithms in Machine Learning](https://www.analyticsvidhya.com/blog/2015/11/quick-introduction-boosting-algorithms-machine-learning/)
 
 
 #### Other
